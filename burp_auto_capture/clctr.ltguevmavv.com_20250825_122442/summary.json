@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250825_122442", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/clctr.ltguevmavv.com_20250825_122442/request_001.txt", 
+      "url": "https://clctr.ltguevmavv.com:443/collect", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/clctr.ltguevmavv.com_20250825_122442/response_001.txt", 
+      "timestamp": 1756135460582
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/clctr.ltguevmavv.com_20250825_122442/request_002.txt", 
+      "url": "https://clctr.ltguevmavv.com:443/collect", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/clctr.ltguevmavv.com_20250825_122442/response_002.txt", 
+      "timestamp": 1756135471542
+    }
+  ], 
+  "host": "clctr.ltguevmavv.com", 
+  "total_requests": 2
+}
