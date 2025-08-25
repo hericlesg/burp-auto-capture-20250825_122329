@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250825_122650", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.googletagmanager.com_20250825_122650/request_001.txt", 
+      "url": "https://www.googletagmanager.com:443/ns.html?id=GTM-MKXS32TF", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.googletagmanager.com_20250825_122650/response_001.txt", 
+      "timestamp": 1756135154100
+    }
+  ], 
+  "host": "www.googletagmanager.com", 
+  "total_requests": 1
+}
