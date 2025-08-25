@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Mon, 25 Aug 2025 15:19:15 GMT
+Content-Type: application/json
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Cf-Cache-Status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rB57I86ZwhXh%2FNHCHjhPuCFBOmM8CEBx9SwB7WWs%2B5%2F3BFX0n7wjbTUBgpOcwnu908wlRhISn6gr7UFVa4uFkuk27jTFLYOt%2BM3HJ4%2Bq0W0EzDE%3D"}]}
+Cf-Ray: 974c111439dd0c79-MRS
+
+{"negotiateVersion":1,"connectionId":"ifn3tQ-s83WFyCBsYGnCHA","connectionToken":"Aw49eDyoEXlWRqKZNTr9Kg","availableTransports":[{"transport":"WebSockets","transferFormats":["Text","Binary"]},{"transport":"ServerSentEvents","transferFormats":["Text"]},{"transport":"LongPolling","transferFormats":["Text","Binary"]}]}
