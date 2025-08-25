@@ -1,0 +1,87 @@
+{
+  "capture_timestamp": "20250825_122445", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_001.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_001.txt", 
+      "timestamp": 1756135030912
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_002.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub?languageId=pt&timeZone=-3&id=zkMPHWwP0Euotn_dCyP9PA", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_002.txt", 
+      "timestamp": 1756135049379
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_003.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_003.txt", 
+      "timestamp": 1756135156084
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_004.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_004.txt", 
+      "timestamp": 1756135190865
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_005.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub?languageId=pt&timeZone=-3&id=Aw49eDyoEXlWRqKZNTr9Kg", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_005.txt", 
+      "timestamp": 1756135196975
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_006.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub?languageId=pt&timeZone=-3&id=QxxWYWFcfcW9OBy-Ky9XKQ", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_006.txt", 
+      "timestamp": 1756135197666
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_007.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_007.txt", 
+      "timestamp": 1756135199108
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_008.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub?languageId=pt&timeZone=-3&id=aZCR2u0KpbZlk7vlFLEVKg", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_008.txt", 
+      "timestamp": 1756135215871
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_009.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub?languageId=pt&timeZone=-3&id=aZCR2u0KpbZlk7vlFLEVKg", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_009.txt", 
+      "timestamp": 1756135218127
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/request_010.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_122445/response_010.txt", 
+      "timestamp": 1756135282330
+    }
+  ], 
+  "host": "zeroum-ws.zeroum.day", 
+  "total_requests": 10
+}
